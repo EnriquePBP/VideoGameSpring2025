@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\enriq\source\repos\VideoGameSpring2025\SFML\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\enriq\source\repos\VideoGameSpring2025\SFML\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  VideoGameSpring2025.vcxproj -> C:\Users\enriq\source\repos\VideoGameSpring2025\x64\Debug\VideoGameSpring2025.exe
